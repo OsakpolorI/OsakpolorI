@@ -56,7 +56,7 @@ Check out my [LinkedIn](https://linkedin.com/in/osakpolor-idusuyi/) for more pro
 
 ## 📫 Connect with me:
 
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/osakpolor-idusuyi/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -66,5 +66,5 @@ Check out my [LinkedIn](https://linkedin.com/in/osakpolor-idusuyi/) for more pro
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsakpolorI&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsakpolorI&theme=vision-friendly-dark&hide_border=true" alt="Osakpolor's GitHub Streak" />
 </p>
